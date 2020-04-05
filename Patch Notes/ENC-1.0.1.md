@@ -31,7 +31,7 @@ The Build Assist is a special tile that allows you to create an entire room, a w
 
 3. Use the transparent version and increase your brush size to quickly create a room.
  
-![Create Room with a Build Assist](ref/assist01.gif"Create Room with a Build Assist")
+![Create Room with a Build Assist]( ref/assist01.gif "Create Room with a Build Assist")
 
 4. You can only remove a Build Assist tile if you have selected a Build Assist to switch to the correct layer.
 
@@ -39,7 +39,7 @@ The Build Assist is a special tile that allows you to create an entire room, a w
 Unlike regular general tiles, you can get to your target much faster with the Build Assist if your target is a wall, floor, or room.
 If you want to use the tiles to make more complex artistic decisions, you will unfortunately have to resort to the traditional tiles.
 
-However, if you want to use the tiles within the build assist, it's easy. Just place your build assist and the normal tiles on top. This is possible because BA's are stored on a separate layer.
+However, if you want to use the tiles within the build assist, it's easy. Just place your build assist and the normal tiles on top. This is possible because Build Assists are stored on a separate layer.
 
 ![A mix of the pink transparent Build Assist and normal Tiles.]( http://namespace.media/img/images/2020/04/04/Unity_vxe5rcsVVt.png "A mix of the pink transparent Build Assist and normal Tiles.")
 
@@ -57,10 +57,10 @@ The Selected Range Indicator is what its name says. It now reliably shows you ho
 ### How does the Indicator work
 The SRI is automatically activated, and now always shows you your range when you change your brush size with `R` and `F`
 
-![Selected Range Indicator](ref/selector01.gif"Selected Range Indicator")
+![Selected Range Indicator]( ref/selector01.gif "Selected Range Indicator")
 
 ------------
 
 ## New Booster
 ### We now have upward firing boosters
-![Top firing Booster](ref/jump01.gif"Top firing Booster")
+![Top firing Booster]( ref/jump01.gif "Top firing Booster")
