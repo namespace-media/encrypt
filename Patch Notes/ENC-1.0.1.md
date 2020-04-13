@@ -4,14 +4,14 @@ You can find every major change that comes with the version below.
 
 ------------
 
-1. Build Assist
-	1. What is a Build Assist?
- 	2. How do i use the Build Assist?
- 	3. Limitations and Advantages of a Build Assist
-2. Selected Range Indicator
- 	1. What is a Selected Range Indicator?
- 	2. How does the Indicator work?
-3. New Booster
+1. [Build Assist](#build-assist)
+	1. [What is a Build Assist?](#what-is-a-build-assist)
+ 	2. [How do i use the Build Assist?](#how-do-i-use-the-build-assist)
+ 	3. [Limitations and Advantages of a Build Assist](#limitations-and-advantages-of-a-build-assist)
+2. [Selected Range Indicator](#selected-range-indicator)
+ 	1. [What is a Selected Range Indicator?](#what-is-a-selected-range-indicator)
+ 	2. [How does the Indicator work?](#how-does-the-indicator-work)
+3. [New Booster](#new-booster)
 
 ------------
 
