@@ -5,7 +5,7 @@ Welcome to the Patch Notes for the new Beta Patch 1.0.2! You will be introduced 
 ------------
 
 1. [Add Text to your Stage](#add-text-to-your-stage)
-  1. [Usage](#usage)
+    1. [Usage](#usage)
 2. [Default Name for Stages](#default-name-for-stages)
 3. [Exit confirmation in the Creator](#exit-confirmation-in-the-creator)
 4. [Brush Size](#brush-size)
@@ -23,7 +23,7 @@ You can now add small messages to your Stage by using the new Text-Tile!
 
 ![Text-Tile in the Toolbox]( https://github.com/namespace-media/encrypt/blob/beta/Patch%20Notes/ref/image.png "Text-Tile in the Toolbox")
 
-2. Now Place it somewhere. You will be prompted to add your Text after that.
+2. Now Place it somewhere. You will be prompted to add your Text after that. You can also give it a specific color by entering a hex-code in the small box on the left!
 
 !["Text-Tile Usage"]( https://github.com/namespace-media/encrypt/blob/beta/Patch%20Notes/ref/TTENCuse.gif "Text-Tile Usage")
 
